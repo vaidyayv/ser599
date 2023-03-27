@@ -1,0 +1,6 @@
+data-collection/constants
+data-collection/key
+data-collection/temp
+frontend/node_modules
+frontend/.firebase
+backend/node_modules

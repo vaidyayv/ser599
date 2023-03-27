@@ -1,0 +1,15 @@
+.movieListContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.recommendationTitle {
+    padding-left: 80px;
+}
+
+@media screen and (max-width:767px) {
+    .recommendationTitle {
+        padding-left: 30px;
+    }
+}
